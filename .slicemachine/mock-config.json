@@ -1,0 +1,13 @@
+{
+  "_cts": {
+    "page": {}
+  },
+  "slices": {
+    "TestSection": {},
+    "Image": {
+      "default": {
+        "primary": {}
+      }
+    }
+  }
+}
